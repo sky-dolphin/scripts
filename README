@@ -1,0 +1,6 @@
+Clone from github
+git clone git@github.com:sky-dolphin/scripts.git
+
+Use with dotfiles.git
+
+sudo sh setup.sh
